@@ -64,11 +64,11 @@ public class State
     }
 
     public String getOName() {
-        return this.oName;
+        return oName;
     }
 
     public void setOName(String oName) {
-        this.xName = xName;
+        this.oName = oName;
     }
 
     public int getBoardCell(int row, int col) {
